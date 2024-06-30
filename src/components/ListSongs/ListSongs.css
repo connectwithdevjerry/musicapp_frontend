@@ -1,0 +1,30 @@
+/* .list-music {
+    margin: 10px;
+    height: 65%;
+    overflow: scroll;
+    overflow-x: hidden;
+    scrollbar-width: 2px;
+}
+
+.update-song {
+display: flex;
+width: 90%;
+align-items: center;
+justify-content: space-between;
+}
+
+.first {
+    flex: 2;
+}
+.sec {
+    flex: 0.5;
+}
+.third {
+    flex: 1;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.update-name {
+    font-size: 14px;
+} */

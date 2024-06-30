@@ -1,0 +1,116 @@
+/* .cardb {
+  --main-color: #fff;
+  --bg-color: rgb(108, 14, 14);
+  --sub-main-color: #b9b9b9;
+  width: 100%;
+  background: var(--bg-color);
+  border-radius: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card__menu {
+  cursor: pointer;
+}
+
+.card__img {
+  height: 124px;
+  width: 124px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #131313;
+  border-radius: 100%;
+}
+
+.card__img svg {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+
+.card__title {
+  font-weight: 500;
+  font-size: 28px;
+  color: var(--main-color);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.other-songs {
+  font-size: 18px;
+  font-style: italic;
+}
+
+.card__subtitle {
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--sub-main-color);
+  text-align: center;
+  cursor: pointer;
+}
+
+.card__wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.card__time {
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--main-color);
+}
+
+.card__timeline {
+  width: 100%;
+  height: 4px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.card__timeline progress {
+  width: 100%;
+  height: 100%;
+  border-radius: 100px;
+}
+
+.card__timeline progress::-webkit-progress-bar {
+  background-color: #424242;
+  border-radius: 100px;
+}
+
+.card__timeline progress::-webkit-progress-value {
+  background-color: #fff;
+  border-radius: 100px;
+}
+
+.card__btn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.card__btn path {
+  fill: var(--main-color);
+}
+
+.card__btn-play {
+  width: 60px;
+  height: 60px;
+  background: var(--main-color);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__btn-play path {
+  fill: var(--bg-color);
+} */
