@@ -1,4 +1,4 @@
-/* .footer {
+.footer {
     background-color: rgb(207, 207, 254);
     padding: 20px;
     position: absolute;
@@ -8,4 +8,4 @@
 .footer > p {
     text-align: center;
     font-style: italic;
-} */
+}
