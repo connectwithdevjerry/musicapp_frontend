@@ -1,4 +1,4 @@
-/* .list-music {
+.list-music {
     margin: 10px;
     height: 65%;
     overflow: scroll;
@@ -27,4 +27,4 @@ justify-content: space-between;
 
 .update-name {
     font-size: 14px;
-} */
+}
