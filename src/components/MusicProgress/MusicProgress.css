@@ -1,4 +1,4 @@
-/* .cards {
+.cards {
   position: absolute;
   bottom: 1em;
   min-width: 90%;
@@ -212,4 +212,4 @@
   100% {
     transform: scaleY(0.1);
   }
-} */
+}
