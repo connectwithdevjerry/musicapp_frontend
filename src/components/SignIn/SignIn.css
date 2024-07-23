@@ -1,4 +1,4 @@
-/* .containerss {
+.containerss {
   max-width: 350px;
   background: #f8f9fd;
   background: linear-gradient(
@@ -166,4 +166,4 @@ input[type="submit"] {
   color: red;
   padding: 0 20px;
   text-align: center;
-} */
+}
