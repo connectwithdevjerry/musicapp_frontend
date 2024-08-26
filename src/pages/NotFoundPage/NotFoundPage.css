@@ -1,4 +1,4 @@
-/* .main_wrapper {
+.main_wrapper {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -443,4 +443,4 @@
 
 .button:hover::before {
   width: 100%;
-} */
+}
